@@ -1,0 +1,21 @@
+c:\users\ky\documents\visual studio 2010\Projects\SendEmailByQQ\SendEmailByQQ\bin\Debug\SendEmailByQQ.dll
+c:\users\ky\documents\visual studio 2010\Projects\SendEmailByQQ\SendEmailByQQ\bin\Debug\SendEmailByQQ.pdb
+c:\users\ky\documents\visual studio 2010\Projects\SendEmailByQQ\SendEmailByQQ\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ky\documents\visual studio 2010\Projects\SendEmailByQQ\SendEmailByQQ\obj\Debug\SendEmailByQQ.dll
+c:\users\ky\documents\visual studio 2010\Projects\SendEmailByQQ\SendEmailByQQ\obj\Debug\SendEmailByQQ.pdb
+G:\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.dll
+G:\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.pdb
+G:\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\ResolveAssemblyReference.cache
+G:\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.dll
+G:\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.pdb
+F:\dll\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.dll
+F:\dll\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.pdb
+F:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\ResolveAssemblyReference.cache
+F:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.dll
+F:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.pdb
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.XML
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.dll
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\bin\Debug\SendEmailByQQ.pdb
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\ResolveAssemblyReference.cache
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.dll
+H:\dll\调用QQ邮箱发邮件\SendEmailByQQ\obj\Debug\SendEmailByQQ.pdb

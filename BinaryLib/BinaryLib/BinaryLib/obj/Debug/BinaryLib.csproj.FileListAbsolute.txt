@@ -1,0 +1,12 @@
+E:\beifen\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.dll
+E:\beifen\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.pdb
+E:\beifen\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.dll
+E:\beifen\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.pdb
+I:\dll\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.dll
+I:\dll\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.pdb
+I:\dll\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.dll
+I:\dll\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.pdb
+E:\dll\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.dll
+E:\dll\BinaryLib\BinaryLib\BinaryLib\bin\Debug\BinaryLib.pdb
+E:\dll\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.dll
+E:\dll\BinaryLib\BinaryLib\BinaryLib\obj\Debug\BinaryLib.pdb

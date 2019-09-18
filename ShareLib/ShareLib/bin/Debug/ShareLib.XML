@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShareLib</name>
+    </assembly>
+    <members>
+        <member name="T:ShareLib.ByteBuffer">
+            <summary>
+            ByteBuffer
+            </summary>
+        </member>
+        <member name="M:ShareLib.ByteBuffer.#ctor">
+            <summary>  
+            默认构造函数  
+            </summary>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.#ctor(System.Byte[])">
+            <summary>  
+            重载的构造函数,用一个Byte数组来构造  
+            </summary>  
+            <param name="bytes">用于构造ByteBuffer的数组</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.ToByteArray">
+            <summary>  
+            获取ByteBuffer所生成的数组  
+            长度必须小于 [MAXSIZE]  
+            </summary>  
+            <returns>Byte[]</returns>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.Initialize">
+            <summary>  
+            初始化ByteBuffer的每一个元素,并把当前指针指向头一位  
+            </summary>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PushByte(System.Byte)">
+            <summary>  
+            向ByteBuffer压入一个字节  
+            </summary>  
+            <param name="by">一位字节</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PushByteArray(System.Byte[])">
+            <summary>  
+            向ByteBuffer压入数组  
+            </summary>  
+            <param name="ByteArray">数组</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PushUInt16(System.UInt16)">
+            <summary>  
+            向ByteBuffer压入两字节的Short  
+            </summary>  
+            <param name="Num">2字节Short</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PushInt(System.UInt32)">
+            <summary>  
+            向ByteBuffer压入一个无符Int值  
+            </summary>  
+            <param name="Num">4字节UInt32</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PushLong(System.Int64)">
+            <summary>  
+            向ByteBuffer压入一个Long值  
+            </summary>  
+            <param name="Num">4字节Long</param>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PopByte">
+            <summary>  
+            从ByteBuffer的当前位置弹出一个Byte,并提升一位  
+            </summary>  
+            <returns>1字节Byte</returns>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PopUInt16">
+            <summary>  
+            从ByteBuffer的当前位置弹出一个Short,并提升两位  
+            </summary>  
+            <returns>2字节Short</returns>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PopUInt">
+            <summary>  
+            从ByteBuffer的当前位置弹出一个uint,并提升4位  
+            </summary>  
+            <returns>4字节UInt</returns>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PopLong">
+            <summary>  
+            从ByteBuffer的当前位置弹出一个long,并提升4位  
+            </summary>  
+            <returns>4字节Long</returns>  
+        </member>
+        <member name="M:ShareLib.ByteBuffer.PopByteArray(System.Int32)">
+            <summary>  
+            从ByteBuffer的当前位置弹出长度为Length的Byte数组,提升Length位  
+            </summary>  
+            <param name="Length">数组长度</param>  
+            <returns>Length长度的byte数组</returns>  
+        </member>
+        <member name="P:ShareLib.ByteBuffer.Length">
+            <summary>  
+            获取当前ByteBuffer的长度  
+            </summary>  
+        </member>
+        <member name="P:ShareLib.ByteBuffer.Position">
+            <summary>  
+            获取/设置当前出栈指针位置  
+            </summary>  
+        </member>
+        <member name="T:ShareLib.PasswordHelper">
+            <summary>
+            PasswordHelper
+            </summary>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.EncyptMD5_3_16(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.smethod_0(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.EncyptMD5Bytes(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.smethod_1(System.Byte[])">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.EncryptQQWebMd5(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.EncryptOld(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="password"></param>
+            <param name="verifyCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.GetPassword(System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="qq"></param>
+            <param name="password"></param>
+            <param name="verifyCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.PasswordHelper.Encrypt(System.Int64,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="qq"></param>
+            <param name="password"></param>
+            <param name="verifyCode"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ShareLib.QQShare">
+            <summary>
+            QQ空间（微博分享类）
+            </summary>
+        </member>
+        <member name="F:ShareLib.QQShare.str">
+            <summary>
+            QQ登陆Post参数
+            </summary>
+        </member>
+        <member name="F:ShareLib.QQShare.Str">
+            <summary>
+            分享到QQ空间Post参数
+            </summary>
+        </member>
+        <member name="M:ShareLib.QQShare.GetVCodeImage(System.String)">
+            <summary>
+            获取QQ验证码
+            </summary>
+            <param name="QQNumber">QQ账号</param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.QQShare.QQLogin(System.String,System.String,System.String)">
+            <summary>
+            QQ登陆
+            </summary>
+            <param name="QQNumber">QQ账号</param>
+            <param name="QQPwd">QQ密码</param>
+            <param name="VCode">验证码</param>
+            <returns></returns>
+        </member>
+        <member name="M:ShareLib.QQShare.QZoneShare(System.String,System.String,System.String,System.String)">
+            <summary>
+            分享内容到QQ空间
+            </summary>
+            <param name="QQNumber">QQ账号</param>
+            <param name="Title">标题</param>
+            <param name="Body">内容</param>
+            <param name="Url">链接</param>
+            <returns></returns>
+        </member>
+        <member name="T:ShareLib.RenRenShareClass">
+            <summary>
+            人人分享类
+            </summary>
+        </member>
+        <member name="M:ShareLib.RenRenShareClass.LoginRenRen(System.String,System.String)">
+            <summary>
+            人人登陆
+            </summary>
+            <param name="UserName">用户名</param>
+            <param name="Pwd">密码</param>
+        </member>
+        <member name="M:ShareLib.RenRenShareClass.ShareRenRen(System.String,System.String,System.String,System.String)">
+            <summary>
+            人人分享方法
+            </summary>
+            <param name="PingJia">个人评价</param>
+            <param name="Url">分享链接</param>
+            <param name="Title">标题</param>
+            <param name="Summary">内容</param>
+        </member>
+    </members>
+</doc>

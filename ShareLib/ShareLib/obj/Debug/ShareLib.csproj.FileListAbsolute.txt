@@ -1,0 +1,5 @@
+E:\beifen\ShareApp\ShareLib\ShareLib\bin\Debug\ShareLib.dll
+E:\beifen\ShareApp\ShareLib\ShareLib\bin\Debug\ShareLib.pdb
+E:\beifen\ShareApp\ShareLib\ShareLib\obj\Debug\ShareLib.dll
+E:\beifen\ShareApp\ShareLib\ShareLib\obj\Debug\ShareLib.pdb
+E:\beifen\ShareApp\ShareLib\ShareLib\bin\Debug\ShareLib.XML

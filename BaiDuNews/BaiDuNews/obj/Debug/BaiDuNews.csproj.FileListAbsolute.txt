@@ -1,0 +1,5 @@
+c:\users\ky\documents\visual studio 2010\Projects\BaiDuNews\BaiDuNews\bin\Debug\BaiDuNews.dll
+c:\users\ky\documents\visual studio 2010\Projects\BaiDuNews\BaiDuNews\bin\Debug\BaiDuNews.pdb
+c:\users\ky\documents\visual studio 2010\Projects\BaiDuNews\BaiDuNews\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ky\documents\visual studio 2010\Projects\BaiDuNews\BaiDuNews\obj\Debug\BaiDuNews.dll
+c:\users\ky\documents\visual studio 2010\Projects\BaiDuNews\BaiDuNews\obj\Debug\BaiDuNews.pdb

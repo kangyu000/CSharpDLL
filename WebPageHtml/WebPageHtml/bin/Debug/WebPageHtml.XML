@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebPageHtml</name>
+    </assembly>
+    <members>
+        <member name="T:WebPageHtml.GETWebPage">
+            <summary>
+            获取网站源码
+            </summary>
+        </member>
+        <member name="M:WebPageHtml.GETWebPage.ISConn">
+            <summary>
+            判断网络连接是否畅通
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebPageHtml.GETWebPage.GetHtml(System.String,System.String,System.Int32)">
+            <summary>
+            传入url（string）、字符编码格式（string）（uft-8、gb2312），返回网页源码（string）
+            </summary>
+            <param name="Url">要抓取的网址</param>
+            <param name="Encod">字符编码格式</param>
+            <param name="Timeout">延迟时间</param>
+            <returns>网页源代码</returns>
+        </member>
+        <member name="M:WebPageHtml.GETWebPage.GetHtml(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="Url"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebPageHtml.GETWebPage.GetHtml(System.String,System.String,System.String,System.String)">
+            <summary>
+            使用代理获取网页源码
+            </summary>
+            <param name="URL">链接</param>
+            <param name="IP">IP</param>
+            <param name="PORT">端口</param>
+            <param name="Enc">编码格式</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

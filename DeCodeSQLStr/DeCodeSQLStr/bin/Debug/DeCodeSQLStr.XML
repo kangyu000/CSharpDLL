@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DeCodeSQLStr</name>
+    </assembly>
+    <members>
+        <member name="T:DeCodeSQLStr.DeCodeClass">
+            <summary>
+            读取连接串、解密连接串
+            </summary>
+        </member>
+        <member name="M:DeCodeSQLStr.DeCodeClass.GetSqlconn(System.String,System.String)">
+            <summary>
+            获取连接串
+            </summary>
+            <param name="Path">XML文件路径</param>
+            <param name="NodeName">节点名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DeCodeSQLStr.DeCodeClass.DecodeBase64(System.String)">
+            <summary>
+            解密连接串
+            </summary>
+            <param name="result">加密的连接串</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

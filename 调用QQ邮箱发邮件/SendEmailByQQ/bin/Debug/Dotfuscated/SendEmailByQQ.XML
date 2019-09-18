@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SendEmailByQQ</name>
+    </assembly>
+    <members>
+        <member name="M:SendEmailByQQ.SendEmail.SendMail(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.String,System.String,System.Collections.Generic.List{System.String},System.String,System.String,System.String)">
+            <summary>
+            发件人、收件人、抄送、主题、正文、附件、用户名、密码
+            </summary>
+            <param name="From">发件人</param>
+            <param name="To">收件人</param>
+            <param name="CC">抄送</param>
+            <param name="Subject">主题</param>
+            <param name="Body">正文</param>
+            <param name="Attachment">附件</param>
+            <param name="UserName">用户名</param>
+            <param name="Pwd">密码</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

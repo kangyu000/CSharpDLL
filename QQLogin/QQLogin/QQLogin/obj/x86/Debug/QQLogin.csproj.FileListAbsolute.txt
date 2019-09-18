@@ -1,0 +1,9 @@
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\bin\Debug\QQLogin.exe.config
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\bin\Debug\QQLogin.exe
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\bin\Debug\QQLogin.pdb
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.Form1.resources
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.Properties.Resources.resources
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.csproj.GenerateResource.Cache
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.exe
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.pdb
+C:\Users\kangyu000\Desktop\QQLogin\QQLogin\QQLogin\obj\x86\Debug\QQLogin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+G:\Base64加密解密\Base64加密解密\bin\Debug\Base64加密解密.dll
+G:\Base64加密解密\Base64加密解密\bin\Debug\Base64加密解密.pdb
+G:\Base64加密解密\Base64加密解密\obj\Debug\ResolveAssemblyReference.cache
+G:\Base64加密解密\Base64加密解密\obj\Debug\Base64加密解密.dll
+G:\Base64加密解密\Base64加密解密\obj\Debug\Base64加密解密.pdb

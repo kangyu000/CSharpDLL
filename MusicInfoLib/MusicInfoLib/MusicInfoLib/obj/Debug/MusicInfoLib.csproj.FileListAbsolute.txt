@@ -1,0 +1,10 @@
+E:\beifen\MusicInfoLib\MusicInfoLib\MusicInfoLib\bin\Debug\MusicInfoLib.dll
+E:\beifen\MusicInfoLib\MusicInfoLib\MusicInfoLib\bin\Debug\MusicInfoLib.pdb
+E:\beifen\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.dll
+E:\beifen\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.pdb
+E:\beifen\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.csprojResolveAssemblyReference.cache
+I:\dll\MusicInfoLib\MusicInfoLib\MusicInfoLib\bin\Debug\MusicInfoLib.dll
+I:\dll\MusicInfoLib\MusicInfoLib\MusicInfoLib\bin\Debug\MusicInfoLib.pdb
+I:\dll\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.csprojResolveAssemblyReference.cache
+I:\dll\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.dll
+I:\dll\MusicInfoLib\MusicInfoLib\MusicInfoLib\obj\Debug\MusicInfoLib.pdb

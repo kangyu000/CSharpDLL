@@ -1,0 +1,4 @@
+C:\Users\kangyu000\Desktop\QQLogin\VCodeIdeLib\VCodeIdeLib\bin\Debug\VCodeIdeLib.dll
+C:\Users\kangyu000\Desktop\QQLogin\VCodeIdeLib\VCodeIdeLib\bin\Debug\VCodeIdeLib.pdb
+C:\Users\kangyu000\Desktop\QQLogin\VCodeIdeLib\VCodeIdeLib\obj\Debug\VCodeIdeLib.dll
+C:\Users\kangyu000\Desktop\QQLogin\VCodeIdeLib\VCodeIdeLib\obj\Debug\VCodeIdeLib.pdb
